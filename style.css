@@ -1,5 +1,21 @@
 body{
 background-color: rgb(5, 116, 5);
 display:flex;
+justify-content: center;
+align-content: center;
+height: 700px;
+margin: 0;
+
+}
+
+button {
+  background-color: rgb(143, 208, 208);
+  color: aliceblue;
+  font-family: "Bai jamjuree", sans-surif;
+}
+
+.passo{
+  display: none;
+
 
 }
